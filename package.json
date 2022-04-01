@@ -1,0 +1,17 @@
+{
+  "name": "pokemon2-0",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.9.0"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.3"
+  }
+}
